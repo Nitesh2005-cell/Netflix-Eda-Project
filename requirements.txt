@@ -1,0 +1,6 @@
+colab-notebook
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
