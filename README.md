@@ -2,8 +2,9 @@
 <p align="center">Python • Pandas • Matplotlib • Seaborn • WordCloud • Google Colab</p>
 <hr>
 <p align="center">
-  <img src="visuals/word_cloud.png" width="600">
+  <img src="visuals/genre_heatmap.png" width="600">
 </p>
+
 
 ## 📌 Overview
 This project explores the Netflix Titles Dataset (~8.8k entries) using Exploratory Data Analysis (EDA).  
